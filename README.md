@@ -33,3 +33,11 @@ These are my favourite tech stacks. Just enjoy.
 
 ---
 <br />
+
+## <b>Check other projects from my Gitlab</b>
+These are other projects I have outside from Github, preferably on Gitlab. Why?? Well I don't want to give github all my projects. They can close or suspend access to my account when they want, like it happened before to the creator of npm. This is one reason but are many more.
+
+### Developing a React made site
+This is a project where I showed my client some designs, about how will the site work and the system works. This web is so different in his sector, that he was so shocked and impressed how worked. This was 7 months of work, with so many troubles and React version updates. Well here's the result.
+
+[DoctorCollado](https://gitlab.com/paskisites/website-doctorcollado.com)
