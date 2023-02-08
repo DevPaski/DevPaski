@@ -15,7 +15,7 @@ But I can use also Alma Linux, Debian or even OpenSUSE. You're going to agree wi
 - <b>Database: </b>MongoDB or PostgreSQL
 
 #### <b>For websites</b>
-I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fast to develop.
+I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fast to develop. And is much easier to develop multilingual websites, with plugins made for strapi. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
 
 ### <b>🎁 The alternative</b>
 - <b>Frontend: </b>Dart/Flutter
