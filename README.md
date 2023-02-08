@@ -17,6 +17,8 @@ But I can use also Alma Linux, Debian or even OpenSUSE. You're going to agree wi
 #### <b>For websites</b>
 I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fast to develop. And is much easier to develop multilingual websites, with plugins made for strapi. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
 
+Currently I'm working to implement instead of [npm](https://www.npmjs.com/), the usage of [bun](https://bun.sh/), for better performance of the website.
+
 ### <b>🎁 The alternative</b>
 - <b>Frontend: </b>Dart/Flutter
 - <b>Backend: </b>Dart/Flutter, NodeJS
