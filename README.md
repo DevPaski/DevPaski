@@ -31,6 +31,4 @@ Currently I'm working to implement instead of [npm](https://www.npmjs.com/), the
 
 These are my favourite tech stacks. Just enjoy.
 
-<br />
-
 ---
