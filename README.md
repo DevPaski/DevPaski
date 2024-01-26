@@ -11,7 +11,7 @@ But I can use also Alma Linux, Debian or even OpenSUSE. You're going to agree wi
 
 ### <b>✨ The chosen one</b>
 - <b>Frontend: </b>HTML, CSS, JS (React/NextJS, ThreeJS, ChartJS)
-- <b>Backend: </b>Rust (RocketRS, Tauri)
+- <b>Backend: </b>Rust (Actix, Tauri)
 - <b>Database: </b>MongoDB or PostgreSQL
 
 #### <b>🌍 For Websites</b>
