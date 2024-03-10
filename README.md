@@ -21,12 +21,12 @@ I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fas
 
 Currently I'm working to implement instead of [npm](https://www.npmjs.com/), the usage of [bun](https://bun.sh/), for better performance of the website.
 
-### <b>🎁 The Alternative</b>
+### <b>🎁 The Other Side of The Mirror</b>
 - <b>Frontend: </b>Dart/Flutter
 - <b>Backend: </b>Dart/Flutter, NodeJS
 - <b>Database: </b>MongoDB or SQLite
 
-### <b>🕵️‍♂️ The Other One</b>
+### <b>🕵️‍♂️ The One Which Shall Not Be Named or "TOnWSNoBeNa"</b>
 - <b>Frontend: </b>HTML, CSS, JS (React/NextJS)
 - <b>Backend: </b>Elixir (Phoenix) and GraphQL
 - <b>Database: </b>MongoDB or Redis
