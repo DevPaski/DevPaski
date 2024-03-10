@@ -11,8 +11,10 @@ But I can use also Alma Linux, Debian or even OpenSUSE. You're going to agree wi
 
 ### <b>✨ The chosen one</b>
 - <b>Frontend: </b>HTML, CSS, JS (React/NextJS, ThreeJS, ChartJS)
-- <b>Backend: </b>Rust (Actix, Tauri)
-- <b>Database: </b>MongoDB or PostgreSQL
+- <b>Backend: </b>NodeJS (npm), Rust or Go (depends on project and server)
+- <b>Database: </b>MongoDB or PostgreSQL (depends on project and server)
+- <b>CMS: </b> PayloadJS (blazingly fast)
+- <b>Website Engine: </b> Caddy
 
 #### <b>🌍 For Websites</b>
 I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fast to develop. And is much easier to develop multilingual websites, with plugins made for strapi. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
