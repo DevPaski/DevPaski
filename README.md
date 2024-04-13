@@ -5,33 +5,19 @@ The most important about me is that I'm a full-stack developer and I love it. Al
 There is a Tech Stack that I love. I'll show you my favourite, but I really don't care to use another one for a specific project.
 
 ## <b>💻 My Tech Stack</b>
-I must say I love to work with different OS, but for my Apps, normally I prefer to use Ubuntu Server.
+I must say I love to work with different OS, but for my Apps, normally I prefer to use [Ubuntu Server](https://ubuntu.com/server).
 
-But I can use also Alma Linux, Debian or even OpenSUSE. You're going to agree with me that ArchLinux is the best Desktop OS but for server is pretty insecure.
+But I can use also [Alma Linux](https://almalinux.org/), [Debian](https://www.debian.org/) or even [OpenSUSE](https://www.opensuse.org/). You're going to agree with me that ArchLinux is the best Desktop OS but for server is pretty insecure.
 
 ### <b>✨ The chosen one</b>
-- <b>Frontend: </b>HTML, CSS, JS (React/NextJS, ThreeJS, ChartJS)
-- <b>Backend: </b>NodeJS (npm), Rust or Go (depends on project and server)
-- <b>Database: </b>MongoDB or PostgreSQL (depends on project and server)
-- <b>CMS: </b> PayloadJS (blazingly fast)
-- <b>Website Engine: </b> Caddy
+- <b>Frontend: </b>HTML, CSS, JS ([React](https://react.dev/)/[NextJS](https://nextjs.org/), [ThreeJS](https://threejs.org/), [ChartJS](https://www.chartjs.org/))
+- <b>Backend: </b>[NodeJS](https://nodejs.org/en) ([npm](https://www.npmjs.com/)), [Rust](https://www.rust-lang.org/) or [Go](https://go.dev/) (depends on project and server)
+- <b>Database: </b>[MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/) (depends on project and server)
+- <b>CMS: </b> [PayloadJS](https://payloadcms.com/) (blazingly fast)
+- <b>Website Engine: </b> [Caddy](https://caddyserver.com/)
 
 #### <b>🌍 For Websites</b>
-I love to use Strapi + AstroJS (or AstroBuild), with these the website is so fast to develop. And is much easier to develop multilingual websites, with plugins made for strapi. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
-
-Currently I'm working to implement instead of [npm](https://www.npmjs.com/), the usage of [bun](https://bun.sh/), for better performance of the website.
-
-### <b>🎁 The Other Side of The Mirror</b>
-- <b>Frontend: </b>Dart/Flutter
-- <b>Backend: </b>Dart/Flutter, NodeJS
-- <b>Database: </b>MongoDB or SQLite
-
-### <b>🕵️‍♂️ The One Which Shall Not Be Named or "TOnWSNoBeNa"</b>
-- <b>Frontend: </b>HTML, CSS, JS (React/NextJS)
-- <b>Backend: </b>Elixir (Phoenix) and GraphQL
-- <b>Database: </b>MongoDB or Redis
-
-These are my favourite tech stacks. Just enjoy.
+I love to use [Payload CMS](https://payloadcms.com/) + [Astro](https://astro.build/), with these the website is so fast to develop. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
 
 ## <b>📁 Projects</b>
 I've resestructurized where to upload my academic projects and my own so:
