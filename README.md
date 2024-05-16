@@ -16,7 +16,7 @@ But I can use also [Alma Linux](https://almalinux.org/), [Debian](https://www.de
 - <b>CMS: </b> [PayloadJS](https://payloadcms.com/) (blazingly fast)
 - <b>Website Engine: </b> [Caddy](https://caddyserver.com/)
 
-- <b>App development: </b> [Tauri](https://v2.tauri.app/) or [Kotlin Multiplatform](https://kotlinlang.org/)
+- <b>App development: </b> [Tauri](https://v2.tauri.app/), [Kotlin Multiplatform](https://kotlinlang.org/) or [Dart](https://dart.dev/) ([Flutter](https://flutter.dev/))
 
 #### <b>🌍 For Websites</b>
 I love to use [Payload CMS](https://payloadcms.com/) + [Astro](https://astro.build/), with these the website is so fast to develop. If you're familiar with NodeJS, you can try to use the SSR (Server Side Rendering) function for AstroJS to improve the loads of the website, instead of the default usage for AstroJS related to Static Site Generation.
