@@ -12,7 +12,7 @@ But I can use also [Alma Linux](https://almalinux.org/), [Debian](https://www.de
 ### <b>✨ The chosen one</b>
 - <b>Frontend: </b>HTML, CSS, JS ([React](https://react.dev/)/[NextJS](https://nextjs.org/), [ThreeJS](https://threejs.org/), [ChartJS](https://www.chartjs.org/))
 - <b>Backend: </b>[NodeJS](https://nodejs.org/en) ([npm](https://www.npmjs.com/)), [Rust](https://www.rust-lang.org/) or [Go](https://go.dev/) (depends on project and server)
-- <b>Database: </b>[MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/) (depends on project and server)
+- <b>Database: </b>[CockroachDB](https://www.cockroachlabs.com/), [MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/) (depends on project and server)
 - <b>CMS: </b> [PayloadJS](https://payloadcms.com/) (blazingly fast)
 - <b>Website Engine: </b> [Caddy](https://caddyserver.com/)
 
